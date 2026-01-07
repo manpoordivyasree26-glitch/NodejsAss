@@ -1,8 +1,8 @@
-***QUESTIONS***
+## QUESTIONS
 
 
 
-## Q1 ROLE OF FRONTEND 
+## Q1.ROLE OF FRONTEND 
 ![frontend](https://yellowsummer.in/wp-content/uploads/2022/10/Front-end.png)
 The Frontend (FE) is the part of a web application that users see and interact with directly in their browser. It focuses on appearance, usability, and interaction.
 ### User Interface (UI)
@@ -19,7 +19,7 @@ It receives data from the backend and displays it in a user-friendly way.
 Example: Fetching product data from a server and displaying it as cards on a webpage.
 
 
-## Q2 ROLE OF BACKEND 
+## Q2.ROLE OF BACKEND 
 ![backend](https://v1.scrimba.com/articles/content/images/size/w1000/2022/12/Fronted-VS-Backend-Web-Development.png)
 The Backend (BE) is the hidden part of a web application that works behind the scenes. It manages data, logic, and security.
 ### Server-Side Processing
@@ -36,7 +36,7 @@ It handles login, signup, roles, permissions, and data protection.
 Example: Verifying a user’s token before allowing access to a dashboard.
 
 
-## Q3 BUSINESS LOGIC
+## Q3.BUSINESS LOGIC
 ![business logic](https://blog.citunius.de/wp-content/uploads/2019/07/BusinessLogic.Generic.en_-1024x643.png)
 Business Logic refers to the set of rules and conditions that define how a business operates within a web application.
 It decides what should happen when certain actions are performed.
@@ -56,7 +56,7 @@ Exam auto-submits when time is over.
 Marks are calculated based on correct answers.
 
 
-## Q4 CLIENT-SERVER MODEL 
+## Q4.CLIENT-SERVER MODEL 
 ![CLIENT-SERVER MODEL](https://assets.serverwatch.com/uploads/2021/07/The-Client-Server-Model.png)
 The Client–Server Model is a communication structure where tasks are divided between requesters (clients) and providers (servers).
 ### Who is the Client?
@@ -73,7 +73,7 @@ Server sends back a response (data or status).
 Client displays the response to the user.
 
 
-## Q5 THREE-TIER ARCHITECTURE 
+## Q5.THREE-TIER ARCHITECTURE 
 ![THREE-TIER ARCHITECTURE ](https://cdn.hashnode.com/res/hashnode/image/upload/v1666349814710/xVeln9qtG.png?auto=compress,format&format=webp)
 3-Tier Architecture divides a web application into three independent layers. Each layer has a specific responsibility.
 ### Presentation Layer
@@ -95,7 +95,7 @@ Improved security
 Clear separation of responsibilities
 
 
-## Q6 JAVASCRIPT AS A BACKEND LANGUAGE 
+## Q6.JAVASCRIPT AS A BACKEND LANGUAGE 
 ![JAVASCRIPT AS A BACKEND LANGUAGE ](https://www.ezteksoftware.com/wp-content/uploads/2024/03/what-is-a-back-end-language.jpg)
 JavaScript is widely used as a backend language due to its speed, flexibility, and strong ecosystem.
 ### Performance
