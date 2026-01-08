@@ -2,7 +2,7 @@
 
 
 ## Q1. NODE.JS ARCHITECTURE 
-(https://www.simplilearn.com/ice9/free_resources_article_thumb/node.js-architecture.png)
+![Node.js](https://www.simplilearn.com/ice9/free_resources_article_thumb/node.js-architecture.png)
 Node.js allows us to run JavaScript outside the browser. It works in a way where it doesn’t get stuck on slow 
 tasks. Instead of using many threads, it uses one main thread and an event loop to handle many requests at the 
 same time. This makes Node.js fast and good for real-time apps like chat and live updates.
@@ -30,7 +30,7 @@ Because of the event loop, Node.js can handle lots of requests smoothly.
 
 
 ## LIBUV
-(https://velog.velcdn.com/images/tastestar/post/2520bbfd-56e1-4512-9d40-d724c6af9072/image.png)
+![libuv](https://velog.velcdn.com/images/tastestar/post/2520bbfd-56e1-4512-9d40-d724c6af9072/image.png)
 
 ### what is libuv?
 libuv is a library written in C that gives Node.js its non-blocking abilities.
@@ -48,7 +48,7 @@ Thread Pool
 
 
 ### THREAD POOL
-(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Thread_pool.svg/800px-Thread_pool.svg.png)
+![thread pool](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Thread_pool.svg/800px-Thread_pool.svg.png)
 
 ### What is a thread pool?
 Thread pool is a small group of background workers that handle tasks that would otherwise block the main thread.
@@ -65,7 +65,7 @@ These tasks run in the background.
 
 
 ## WORKER THREAD
-(https://images.ctfassets.net/hspc7zpa5cvq/20h5efXHT4bQbuf44mdq2H/a40944191d031217a9169b17a8ef35d6/worker-diagram_2x__1_.jpg)
+![worker thread](https://images.ctfassets.net/hspc7zpa5cvq/20h5efXHT4bQbuf44mdq2H/a40944191d031217a9169b17a8ef35d6/worker-diagram_2x__1_.jpg)
 ### What are worker threads?
 Worker threads are extra JavaScript threads inside Node.js.
 They can run their own JavaScript code separately.
@@ -80,7 +80,7 @@ Event Loop Queues
 The event loop has two important queues:
 
 ## EVENT LOOP QUEUE
-(https://miro.medium.com/v2/resize:fit:1200/1*SvTxMIEudVv8YRW_ELRamw.png)
+![event loop queue](https://miro.medium.com/v2/resize:fit:1200/1*SvTxMIEudVv8YRW_ELRamw.png)
 They event loop has two important queue
 ### Macro Task Queue
 These are bigger async tasks like:
