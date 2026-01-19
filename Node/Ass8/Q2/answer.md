@@ -2,10 +2,15 @@
 db.json is only useful for small practice projects. It is not suitable for real applications because:
 
 ***Performance Issues:*** It becomes slow when data grows.
+
 ***No Multi-User Support***: Cannot handle multiple users at the same time.
+
 ***Not Scalable***: Cannot handle large amounts of data or heavy traffic.
+
 ***No Reliability***: Data can get corrupted if the server crashes.
+
 ***No Security***: No authentication, no permissions, no encryption.
+
 ***No Backup System***: No automatic data recovery or backups.
 
 
@@ -14,12 +19,18 @@ db.json is only useful for small practice projects. It is not suitable for real 
 A good database should not just store data. It should also manage data safely and efficiently. Ideal characteristics include:
 
 ***High Performance*** → Fast reading, writing, and searching
-***Concurrency ***→ Allows multiple users at the same time
+
+***Concurrency*** → Allows multiple users at the same time
+
 ***Reliability*** → Keeps data safe even if errors occur
+
 ***Data Integrity*** → Ensures data is correct and consistent
+
 ***Scalability*** → Should grow as data and users grow
-***Fault Tolerance ***→ Continues working even if part of the system fails
-***Security ***→ Protects data using authentication and permissions
+
+***Fault Tolerance***→ Continues working even if part of the system fails
+
+***Security***→ Protects data using authentication and permissions
 
 **Q3. Types of Databases and Their Use Cases**
 
