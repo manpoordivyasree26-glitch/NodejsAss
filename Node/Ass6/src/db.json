@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Divya",
+      "class": "mca",
+      "id": "1768813827355"
+    },
+    {
+      "id": "1768813881012",
+      "name": "Divya",
+      "email": "divya@test.com"
+    },
+    {
+      "id": "1768813883796",
+      "name": "Divya",
+      "email": "divya@test.com"
+    },
+    {
+      "id": "1768813909353",
+      "name": "Divya",
+      "email": "divya@test.com"
+    }
+  ],
+  "todos": []
+}
