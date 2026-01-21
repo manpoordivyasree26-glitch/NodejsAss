@@ -1,0 +1,28 @@
+{
+  "users": [],
+  "todos": [
+    {
+      "name": "Add your name in the body",
+      "id": "1769014100699",
+      "completed": false
+    },
+    {
+      "title": "Learn MVC",
+      "priority": "high",
+      "id": "1769014164925",
+      "completed": false
+    },
+    {
+      "title": "Learn MVC",
+      "priority": "high",
+      "id": "1769014220969",
+      "completed": false
+    },
+    {
+      "title": "Learn MVC",
+      "priority": "high",
+      "id": "1769014328525",
+      "completed": false
+    }
+  ]
+}
